@@ -1,2 +1,2 @@
-NIM: D1041221083
 NAMA: Pasaur Alharits Luthfullah
+NIM: D1041221083
